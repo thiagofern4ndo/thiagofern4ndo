@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente trabalho com desenvolvimento de aplicativos usando Flutter e com desenvolvimento Front-end para web.
-- 🌱 Estudando Flutter, Java Scrip e React
+- 🌱 Estudando Dart e Flutter
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="thiago-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
