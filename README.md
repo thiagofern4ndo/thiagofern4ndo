@@ -1,7 +1,7 @@
 ## Oi, eu sou o Thiago!  👋
 
 
-- 🔭 Atualmente trabalho com desenvolvimento de aplicativos usando Flutter e com desenvolvimento Front-end para web.
+- 🔭 Atualmente trabalho com desenvolvimento de aplicativos usando Dart e Flutter!
 - 🌱 Estudando Dart e Flutter
   
 
