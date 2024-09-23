@@ -1,7 +1,6 @@
 ## Oi, eu sou o Thiago! 👋
-
-- 🔭 Atualmente, trabalho com desenvolvimento de aplicativos usando Dart e Flutter!
-- 🌱 Cursando o tecnólogo em Análise e Desenvolvimento de Sistemas, com foco especial em Dart e Flutter.
+- 🌱 Aluno da 4º turma de Flutter do +Devs2Blu
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
 
   
 
