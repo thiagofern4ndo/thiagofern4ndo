@@ -1,6 +1,6 @@
 ## Oi, eu sou o Thiago! 👋
 - 🌱 Aluno da 4º turma de Flutter do +Devs2Blu
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Cursando Pós Graduação em Desenvolviumento mobile
 
   
 
